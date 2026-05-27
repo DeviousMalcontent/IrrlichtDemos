@@ -17,3 +17,9 @@ https://github.com/netpipe/IrrPAL universal physics wrapper repo that might be i
 - windows build targets made for the demos.
 - Code improvements to the demos.
 
+## Goals for this fork 
+- Update all demos to use the latest version of the SDK (version 1.8.5 At the time of writing)
+- All demos must cross compile (Windows, Linux) [Mac if you are lucky]
+- x2 IDE files Visual Studios and Code::Blocks
+- Add CI\CD pipeline
+- Create an index of all demos referencing where they came from, who created them and a short description with screenshot. (This will, most likely be found in the folder named docs)
